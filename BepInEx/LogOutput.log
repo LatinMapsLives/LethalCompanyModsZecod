@@ -58,3 +58,461 @@
 [Info   :Change Player Names] Loading Complete!
 [Info   :   BepInEx] Loading [MoreEmotes-Sligili 1.1.0]
 [Info   :MoreEmotes-Sligili] MoreEmotes loaded
+[Info   :   BepInEx] Loading [FOV Adjust 1.1.1]
+[Info   :Rozebud.FovAdjust] Starting.
+[Info   :Rozebud.FovAdjust] Configs DONE!
+[Info   :Rozebud.FovAdjust] All FOV Adjust patches have loaded successfully.
+[Info   :   BepInEx] Loading [Command Handler 1.0.0]
+[Info   :   BepInEx] Loading [Youtube Boombox 1.1.3]
+[Info   :   BepInEx] Loading [LC Always Hear Active Walkies 1.4.1]
+[Info   :suskitech.LCAlwaysHearActiveWalkie] \ /
+[Info   :suskitech.LCAlwaysHearActiveWalkie] /|\
+[Info   :suskitech.LCAlwaysHearActiveWalkie]  |----|
+[Info   :suskitech.LCAlwaysHearActiveWalkie]  |[__]| Always Hear Active Walkies
+[Info   :suskitech.LCAlwaysHearActiveWalkie]  |.  .| Version 1.4.1 Loaded
+[Info   :suskitech.LCAlwaysHearActiveWalkie]  |____|
+[Info   :   BepInEx] Loading [Late Company 1.0.4]
+[Info   :Late Company] Late Company loaded!
+[Info   :   BepInEx] Loading [LAN Fix 1.0.0]
+[Message:   BepInEx] Chainloader startup complete
+[Message:    LC_API] A plugin has set your game to only allow you to play with other people who have mods!
+[Message:    LC_API] BundleAPI will now load all asset bundles...
+[Message:    LC_API] BundleAPI Created legacy bundle directory in BepInEx/Bundles
+[Message:    LC_API] BundleAPI got no assets to load from legacy directory
+[Message:    LC_API] BundleAPI got 4 AssetBundles to load!
+[Error  : Unity Log] The AssetBundle 'E:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MoreEmotes\animationsbundle' can't be loaded because another AssetBundle with the same files is already loaded.
+[Error  :    LC_API] Failed to load an assetbundle! Path: E:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MoreEmotes\animationsbundle
+[Error  : Unity Log] The AssetBundle 'E:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MoreEmotes\animatorbundle' can't be loaded because another AssetBundle with the same files is already loaded.
+[Error  :    LC_API] Failed to load an assetbundle! Path: E:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\MoreEmotes\animatorbundle
+[Error  : Unity Log] Unable to read header from archive file: E:/SteamLibrary/steamapps/common/Lethal Company/BepInEx/plugins/steven4547466-YoutubeBoombox/data/ffmpeg.exe
+[Error  : Unity Log] Failed to read data for the AssetBundle 'E:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\steven4547466-YoutubeBoombox\data\ffmpeg.exe'.
+[Error  :    LC_API] Failed to load an assetbundle! Path: E:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\steven4547466-YoutubeBoombox\data\ffmpeg.exe
+[Error  : Unity Log] Unable to read header from archive file: E:/SteamLibrary/steamapps/common/Lethal Company/BepInEx/plugins/steven4547466-YoutubeBoombox/data/yt-dlp.exe
+[Error  : Unity Log] Failed to read data for the AssetBundle 'E:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\steven4547466-YoutubeBoombox\data\yt-dlp.exe'.
+[Error  :    LC_API] Failed to load an assetbundle! Path: E:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\steven4547466-YoutubeBoombox\data\yt-dlp.exe
+[Message:    LC_API] BundleAPI finished loading all assets.
+[Info   :    LC_API] LC_API Started!
+[Info   : Unity Log] Changing gamma
+[Info   : Unity Log] override float value: 0
+[Info   : Unity Log] Overriding float
+[Info   : Unity Log] Gamma changed
+[Info   : Unity Log] Set gamma to new value: 0; (0.00, 0.00, 0.00, 0.00) (True)
+[Info   :LethalCompanyDRP] Discord RPC Started
+[Error  : Unity Log] MissingFieldException: Field not found: System.Action`2<string, string> LC_API.ServerAPI.Networking.GetString Due to: Could not find field in class
+Stack trace:
+YoutubeBoombox.YoutubeBoombox.Awake () (at <da8796aa8c5d46359229583a26e9fb53>:0)
+System.Runtime.CompilerServices.AsyncMethodBuilderCore+<>c.<ThrowAsync>b__7_0 (System.Object state) (at <787acc3c9a4c471ba7d971300105af24>:0)
+UnityEngine.UnitySynchronizationContext+WorkRequest.Invoke () (at <e27997765c1848b09d8073e5d642717a>:0)
+UnityEngine.UnitySynchronizationContext.Exec () (at <e27997765c1848b09d8073e5d642717a>:0)
+UnityEngine.UnitySynchronizationContext.ExecuteTasks () (at <e27997765c1848b09d8073e5d642717a>:0)
+
+[Info   : Unity Log] Saving changed settings
+[Info   : Unity Log] Changing gamma
+[Info   : Unity Log] override float value: 0
+[Info   : Unity Log] Overriding float
+[Info   : Unity Log] Gamma changed
+[Info   : Unity Log] Set gamma to new value: 0; (0.00, 0.00, 0.00, 0.00) (True)
+[Info   : Unity Log] Changing gamma
+[Info   : Unity Log] override float value: 0
+[Info   : Unity Log] Overriding float
+[Info   : Unity Log] Gamma changed
+[Info   : Unity Log] Set gamma to new value: 0; (0.00, 0.00, 0.00, 0.00) (True)
+[Info   : Unity Log] Facepunch transport is disabled.
+[Info   : Unity Log] Set version num
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Info   : Unity Log] Changing gamma
+[Info   : Unity Log] override float value: 0
+[Info   : Unity Log] Overriding float
+[Info   : Unity Log] Gamma changed
+[Info   : Unity Log] Set gamma to new value: 0; (0.00, 0.00, 0.00, 0.00) (True)
+[Info   : Unity Log] T
+[Info   : Unity Log] file vers: 35 not compatible; 38
+[Info   : Unity Log] Displaying menu notification: Some of your save files may not be compatible with version 38 and may be corrupted if you play them.
+[Info   : Unity Log] [Dissonance:Core] (19:08:17.996) DissonanceComms: Loading default playback prefab
+[Info   : Unity Log] [Dissonance:Core] (19:08:18.018) DissonanceComms: Starting Dissonance Voice Comms (8.0.4)
+- Network: [DissonanceSetup (Dissonance.Integrations.Unity_NFGO.NfgoCommsNetwork)]
+- Quality Settings: [Quality: Medium, FrameSize: Small, FEC: True, DenoiseAmount: Moderate, RNN: False (0,65) VoiceDuckLevel: 1 VAD: MediumSensitivity]
+- Codec: [Codec: Opus, FrameSize: 960, SampleRate: 48kHz]
+[Info   : Unity Log] host button pressed
+[Info   : Unity Log] Clicked local connection only
+[Info   : Unity Log] Clicked allow remote connections
+[Info   : Unity Log] Displaying menu message
+[Info   : Unity Log] [Netcode] StartHost
+[Info   : Unity Log] [Netcode] Initialize
+[Info   : Unity Log] Connection approval callback! Game version of client request: 
+[Info   : Unity Log] Joining client id: 0; Local/host client id: 0
+[Info   : Unity Log] Stopped connection approval callback, as the client in question was the host!
+[Warning: Unity Log] [Netcode] You cannot decline the host connection. The connection was automatically approved.
+[Info   : Unity Log] started host!
+[Info   : Unity Log] are we in a server?: True
+[Info   : Unity Log] [Dissonance:Network] (19:08:21.437) NfgoServer: Created server with SessionId:2103766817
+[Info   : Unity Log] [Dissonance:Network] (19:08:21.440) NfgoServer: Connected
+[Warning: Unity Log] [Dissonance:Recording] (19:08:21.467) CapturePipelineManager: Detected a frame skip, forcing capture pipeline reset (Delta Time:0,2587337)
+[Info   : Unity Log] [Dissonance:Recording] (19:08:21.493) BasicMicrophoneCapture: Began mic capture (SampleRate:48000Hz, FrameSize:960, Buffer Limit:2^13, Latency:20ms, Device:'')
+[Info   : Unity Log] [Dissonance:Network] (19:08:21.510) ConnectionNegotiator`1: Received handshake response from server, joined session '2103766817'
+[Info   : Unity Log] [Dissonance:Network] (19:08:24.819) NfgoClient: Disconnected
+[Info   : Unity Log] [Dissonance:Network] (19:08:24.824) NfgoServer: Disconnected
+[Info   : Unity Log] Enabling connection callbacks in StartOfRound
+[Info   : Unity Log] Began listening to SceneManager_OnLoadComplete1 on this client
+[Info   : Unity Log] Changing gamma
+[Info   : Unity Log] override float value: 0
+[Info   : Unity Log] Overriding float
+[Info   : Unity Log] Gamma changed
+[Info   : Unity Log] Set gamma to new value: 0; (0.00, 0.00, 0.00, 0.00) (True)
+[Info   : Unity Log] T
+[Warning: Unity Log] testEntrance is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The InteractTrigger component was skipped during spawn!
+[Warning: Unity Log] testEntrance is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The EntranceTeleport component was skipped during spawn!
+[Warning: Unity Log] testExit is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The InteractTrigger component was skipped during spawn!
+[Warning: Unity Log] testExit is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The EntranceTeleport component was skipped during spawn!
+[Warning: Unity Log] OutsideShip (5) is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The AudioReverbTrigger component was skipped during spawn!
+[Warning: Unity Log] EnemySpawner is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The InteractTrigger component was skipped during spawn!
+[Warning: Unity Log] OutsideEnemySpawner is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The InteractTrigger component was skipped during spawn!
+[Warning: Unity Log] OutsideEnemySpawner (1) is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The InteractTrigger component was skipped during spawn!
+[Warning: Unity Log] Cube is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The InteractTrigger component was skipped during spawn!
+[Warning: Unity Log] Cube is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The AnimatedObjectTrigger component was skipped during spawn!
+[Warning: Unity Log] Cube is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The DoorLock component was skipped during spawn!
+[Warning: Unity Log] Cube is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The InteractTrigger component was skipped during spawn!
+[Warning: Unity Log] Cube is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The AnimatedObjectTrigger component was skipped during spawn!
+[Warning: Unity Log] Cube is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The DoorLock component was skipped during spawn!
+[Warning: Unity Log] EnginePart is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The PhysicsProp component was skipped during spawn!
+[Warning: Unity Log] Cog is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The PhysicsProp component was skipped during spawn!
+[Warning: Unity Log] KillTrigger is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The InteractTrigger component was skipped during spawn!
+[Warning: Unity Log] damageTrigger is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The InteractTrigger component was skipped during spawn!
+[Info   : Unity Log] Can't add component 'RectTransform' to ScrollViewport because such a component is already added to the game object!
+[Info   : Unity Log] # powered lights: 0
+[Info   : Unity Log] level id: 0
+[Info   : Unity Log] Changing level
+[Info   : Unity Log] Item sales percentages #0: 0
+[Info   : Unity Log] Item sales percentages #1: 0
+[Info   : Unity Log] Item sales percentages #2: 0
+[Info   : Unity Log] Item sales percentages #3: 0
+[Info   : Unity Log] Item sales percentages #4: 0
+[Info   : Unity Log] Item sales percentages #5: 0
+[Info   : Unity Log] Item sales percentages #6: 0
+[Info   : Unity Log] Item sales percentages #7: 0
+[Info   : Unity Log] Item sales percentages #8: 0
+[Info   : Unity Log] Item sales percentages #9: 0
+[Info   : Unity Log] Item sales percentages #10: 0
+[Info   : Unity Log] Item sales percentages #11: 0
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Info   : Unity Log] Suits: 1
+[Info   : Unity Log] Suit #0: 0
+[Info   : Unity Log] pos: (-2.45, 2.75, -8.41); rot: (0.00, 90.00, 0.00)
+[Info   : Unity Log] Key 'shipGrabbableItems' does not exist
+[Info   : Unity Log] Item sales percentages #0: 0
+[Info   : Unity Log] Item sales percentages #1: 0
+[Info   : Unity Log] Item sales percentages #2: 0
+[Info   : Unity Log] Item sales percentages #3: 0
+[Info   : Unity Log] Item sales percentages #4: 0
+[Info   : Unity Log] Item sales percentages #5: 0
+[Info   : Unity Log] Item sales percentages #6: 0
+[Info   : Unity Log] Item sales percentages #7: 0
+[Info   : Unity Log] Item sales percentages #8: 0
+[Info   : Unity Log] Item sales percentages #9: 0
+[Info   : Unity Log] Item sales percentages #10: 0
+[Info   : Unity Log] Item sales percentages #11: 0
+[Info   : Unity Log] Group credits: 60
+[Info   : Unity Log] [Dissonance:Core] (19:08:25.428) DissonanceComms: Starting Dissonance Voice Comms (8.0.4)
+- Network: [DissonanceSetup (Dissonance.Integrations.Unity_NFGO.NfgoCommsNetwork)]
+- Quality Settings: [Quality: Medium, FrameSize: Small, FEC: True, DenoiseAmount: Moderate, RNN: False (0,65) VoiceDuckLevel: 1 VAD: MediumSensitivity]
+- Codec: [Codec: Opus, FrameSize: 960, SampleRate: 48kHz]
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Warning: Unity Log] [Netcode] Setting ownership twice? Client-ID 0 already owns NetworkObject ID 162!
+[Info   : Unity Log] Current lobby is null. (Attempted to set lobby joinable True.)
+[Error  : Unity Log] NullReferenceException: Object reference not set to an instance of an object
+Stack trace:
+lbtokg.Plugin+Patch.SetClock (TMPro.TextMeshProUGUI& ___weightCounter, UnityEngine.Animator& ___weightCounterAnimator) (at <3d5d08dc1da44fab9ae66065cf2b50ca>:0)
+(wrapper dynamic-method) HUDManager.DMD<HUDManager::Update>(HUDManager)
+
+[Info   : Unity Log] [Dissonance:Network] (19:08:25.593) NfgoServer: Created server with SessionId:225157847
+[Info   : Unity Log] [Dissonance:Network] (19:08:25.595) NfgoServer: Connected
+[Info   : Unity Log] Taking control of player Player and enabling camera!
+[Info   :Change Player Names] Player #0 joined the ship.
+[Info   :Change Player Names] 
+[Info   :Change Player Names] Player #0 joined the ship.
+[Info   :Change Player Names] 
+[Info   : Unity Log] !!!! ENABLING CAMERA FOR PLAYER: Player
+[Info   : Unity Log] !!!! connectedPlayersAmount: 0
+[Info   : Unity Log] Has beta?: {hasBeta}
+[Info   : Unity Log] Has beta save data: True
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/LightSwitchContainer/PlacementCollider"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/Cube"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/AnimatedShipDoor/HangarDoorLeft (1)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (1)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ControlDesk.001"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (3)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (7)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (6)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (8)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (5)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (4)"
+[Info   : Unity Log] [Dissonance:Network] (19:08:26.004) ConnectionNegotiator`1: Received handshake response from server, joined session '225157847'
+[Warning: Unity Log] [Dissonance:Recording] (19:08:26.006) CapturePipelineManager: Detected a frame skip, forcing capture pipeline reset (Delta Time:0,2834357)
+[Info   : Unity Log] [Dissonance:Recording] (19:08:26.016) BasicMicrophoneCapture: Began mic capture (SampleRate:48000Hz, FrameSize:960, Buffer Limit:2^13, Latency:20ms, Device:'Микрофон (fifine Microphone)')
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/StorageCloset/Cube.000/Cube"
+[Warning:    LC_API] Asking all other players for their mod list..
+[Info   :Change Player Names] <size=0>NWE/LC_API_CD_Broadcast/LC_API_ReqGUID/BDstring/0/</size>
+[Info   :Change Player Names] 
+[Info   :Change Player Names] <size=0>NWE/LC_API_CD_Broadcast/LC_API_ReqGUID/BDstring/0/</size>
+[Info   :Change Player Names] 
+[Error  : Unity Log] Trying to add Caret (TMPro.TMP_SelectionCaret) for graphic rebuild while we are already inside a graphic rebuild loop. This is not supported.
+[Info   : Unity Log] Could not build 3
+[Info   : Unity Log] Could not build 3
+[Info   : Unity Log] Parsed word: boombox
+[Info   : Unity Log] noun keyword: boombox ; verb keyword: buy ; result null? : False
+[Info   : Unity Log] result: buyBoombox
+[Info   : Unity Log] Parsed word: company
+[Info   : Unity Log] noun keyword: company ; verb keyword: route ; result null? : False
+[Info   : Unity Log] result: CompanyMoonroute
+[Info   : Unity Log] Changing level server rpc 3
+[Info   : Unity Log] level id: 3
+[Info   : Unity Log] Changing level
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] Calling stop animation function StopUsing server rpc
+[Info   : Unity Log] STOPPING SPECIAL ANIMATION ON LOCAL CLIENT; player who was using: Player #0
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] Level id: 3
+[Info   :Change Player Names] !name Paczekam
+[Info   :Change Player Names] Player #0
+[Info   :Change Player Names] Paczekam
+[Info   :Change Player Names] !name Paczekam
+[Info   :Change Player Names] Paczekam
+[Info   :Change Player Names] Paczekam
+[Info   : Unity Log] Holding interact
+[Info   : Unity Log] Holding interact
+[Info   : Unity Log] Holding interact
+[Info   : Unity Log] Holding interact
+[Info   : Unity Log] Holding interact
+[Info   : Unity Log] Holding interact
+[Info   : Unity Log] Holding interact
+[Info   : Unity Log] Holding interact
+[Info   : Unity Log] Holding interact
+[Info   : Unity Log] Holding interact
+[Info   : Unity Log] Holding interact
+[Info   : Unity Log] Holding interact
+[Info   : Unity Log] Holding interact
+[Info   : Unity Log] Holding interact
+[Info   : Unity Log] Holding interact
+[Info   : Unity Log] Holding interact
+[Info   : Unity Log] Holding interact
+[Info   : Unity Log] Holding interact
+[Info   : Unity Log] Holding interact
+[Info   : Unity Log] Holding interact
+[Info   : Unity Log] Holding interact
+[Info   : Unity Log] Holding interact
+[Info   : Unity Log] Holding interact
+[Info   : Unity Log] Holding interact
+[Info   : Unity Log] Holding interact
+[Info   : Unity Log] Holding interact
+[Info   : Unity Log] Holding interact
+[Info   : Unity Log] Holding interact
+[Info   : Unity Log] Holding interact
+[Info   : Unity Log] Holding interact
+[Info   : Unity Log] Holding interact
+[Info   : Unity Log] Holding interact
+[Info   : Unity Log] Holding interact
+[Info   : Unity Log] Holding interact
+[Info   : Unity Log] Holding interact
+[Info   : Unity Log] Holding interact
+[Info   : Unity Log] Holding interact
+[Info   : Unity Log] Holding interact
+[Info   : Unity Log] Holding interact
+[Info   : Unity Log] Holding interact
+[Info   : Unity Log] Holding interact
+[Info   : Unity Log] Holding interact
+[Info   : Unity Log] Holding interact
+[Info   : Unity Log] Holding interact
+[Info   : Unity Log] Holding interact
+[Info   : Unity Log] Lever animation: setting bool to True
+[Info   : Unity Log] Sent lever animation RPC on this client
+[Info   : Unity Log] STOPPING SPECIAL ANIMATION ON LOCAL CLIENT; player who was using: Paczekam
+[Info   : Unity Log] Loading scene
+[Info   : Unity Log] Scene that began loading: CompanyBuilding
+[Info   : Unity Log] LOADING GAME!!!!!
+[Info   : Unity Log] Waiting for all players to load!
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] One Static Lighting Sky component was already set for baking, only the latest one will be used.
+[Info   : Unity Log] Animating material now
+[Info   : Unity Log] Animating material now
+[Warning: Unity Log] LadderTrigger is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The InteractTrigger component was skipped during spawn!
+[Warning: Unity Log] LadderTrigger is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The InteractTrigger component was skipped during spawn!
+[Warning: Unity Log] EntranceTeleportB is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The InteractTrigger component was skipped during spawn!
+[Warning: Unity Log] EntranceTeleportB is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The EntranceTeleport component was skipped during spawn!
+[Warning: Unity Log] EntranceTeleportA is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The InteractTrigger component was skipped during spawn!
+[Warning: Unity Log] EntranceTeleportA is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The EntranceTeleport component was skipped during spawn!
+[Info   : Unity Log] Spawning synced props on server. Length: 0
+[Info   : Unity Log] # powered lights: 0
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Warning: Unity Log] Audio source failed to initialize audio spatializer. An audio spatializer is specified in the audio project settings, but the associated plugin was not found or initialized properly. Please make sure that the selected spatializer is compatible with the target.
+[Info   : Unity Log] startofround: 3; 0
+[Info   : Unity Log] Playing time of day music
+[Info   : Unity Log] Play time of day sfx
+[Info   : Unity Log] Play music!; ; 0,6
+[Info   : Unity Log] clip index: 3; current planet: 71 Gordion
+[Info   : Unity Log] Current outside ambience clips length: 5
+[Info   :Change Player Names] sdf'
+[Info   :Change Player Names] Paczekam
+[Info   :Change Player Names] sdf'
+[Info   :Change Player Names] Paczekam
+[Info   : Unity Log] clip index: 0; current planet: 71 Gordion
+[Info   : Unity Log] Current outside ambience clips length: 5
+[Info   : Unity Log] clip index: 0; current planet: 71 Gordion
+[Info   : Unity Log] Current outside ambience clips length: 5
+[Info   : Unity Log] Item start falling position: (24.58, -8.41, -43.47)
+[Info   :ObjectVolumeController] Boombox volume: 0,754
+[Info   : Unity Log] Dropping item at rot: 0, 90, 90
+[Warning: Unity Log] [Netcode] Setting ownership twice? Client-ID 0 already owns NetworkObject ID 187!
+[Info   : Unity Log] playerHeldBy on currentlyGrabbingObject 1: Player (GameNetcodeStuff.PlayerControllerB)
+[Warning: Unity Log] [Dissonance:Recording] (19:09:44.364) BasicMicrophoneCapture: Insufficient buffer space, requested 100320, clamped to 16383 (dropping 83937 samples)
+[Warning: Unity Log] [Dissonance:Recording] (19:09:44.366) BasePreprocessingPipeline: Lost 480 samples in the preprocessor (buffer full), injecting silence to compensate
+[Warning: Unity Log] [Dissonance:Recording] (19:09:44.367) BasePreprocessingPipeline: Lost 480 samples in the preprocessor (buffer full), injecting silence to compensate
+[Warning: Unity Log] [Dissonance:Recording] (19:09:44.368) BasePreprocessingPipeline: Lost 480 samples in the preprocessor (buffer full), injecting silence to compensate
+[Warning: Unity Log] [Dissonance:Recording] (19:09:44.369) BasePreprocessingPipeline: Lost 480 samples in the preprocessor (buffer full), injecting silence to compensate
+[Warning: Unity Log] [Dissonance:Recording] (19:09:44.370) BasePreprocessingPipeline: Lost 960 samples in the preprocessor (buffer full), injecting silence to compensate
+[Warning: Unity Log] [Dissonance:Recording] (19:09:44.370) CapturePipelineManager: Detected a frame skip, forcing capture pipeline reset (Delta Time:2,084348)
+[Info   : Unity Log] [Dissonance:Recording] (19:09:44.386) BasicMicrophoneCapture: Began mic capture (SampleRate:48000Hz, FrameSize:960, Buffer Limit:2^13, Latency:20ms, Device:'Микрофон (fifine Microphone)')
+[Info   :Change Player Names] <size=0>NWE/fcUqgzS51p8|187/YOUTUBE_BOOMBOX_URL/BDstring/0/</size>
+[Info   :Change Player Names] 
+[Info   :Change Player Names] <size=0>NWE/fcUqgzS51p8|187/YOUTUBE_BOOMBOX_URL/BDstring/0/</size>
+[Info   :Change Player Names] 
+[Info   : Unity Log] clip index: 3; current planet: 71 Gordion
+[Info   : Unity Log] Current outside ambience clips length: 5
+[Info   : Unity Log] NOISE D
+[Info   : Unity Log] NOISE D
+[Info   : Unity Log] NOISE D
+[Info   : Unity Log] clip index: 4; current planet: 71 Gordion
+[Info   : Unity Log] Current outside ambience clips length: 5
+[Info   :Change Player Names] <size=0>NWE/fcUqgzS51p8|187/YOUTUBE_BOOMBOX_URL/BDstring/0/</size>
+[Info   :Change Player Names] 
+[Info   :Change Player Names] <size=0>NWE/fcUqgzS51p8|187/YOUTUBE_BOOMBOX_URL/BDstring/0/</size>
+[Info   :Change Player Names] 
+[Info   : Unity Log] clip index: 2; current planet: 71 Gordion
+[Info   : Unity Log] Current outside ambience clips length: 5
+[Warning: Unity Log] [Dissonance:Recording] (19:10:44.874) BasePreprocessingPipeline: Lost 480 samples in the preprocessor (buffer full), injecting silence to compensate
+[Info   : Unity Log] clip index: 2; current planet: 71 Gordion
+[Info   : Unity Log] Current outside ambience clips length: 5
+[Info   : Unity Log] clip index: 1; current planet: 71 Gordion
+[Info   : Unity Log] Current outside ambience clips length: 5
+[Info   :Change Player Names] <size=0>NWE/fQQwXXZfPlY|187/YOUTUBE_BOOMBOX_URL/BDstring/0/</size>
+[Info   :Change Player Names] 
+[Info   :Change Player Names] <size=0>NWE/fQQwXXZfPlY|187/YOUTUBE_BOOMBOX_URL/BDstring/0/</size>
+[Info   :Change Player Names] 
+[Info   : Unity Log] clip index: 4; current planet: 71 Gordion
+[Info   : Unity Log] Current outside ambience clips length: 5
+[Info   : Unity Log] clip index: 3; current planet: 71 Gordion
+[Info   : Unity Log] Current outside ambience clips length: 5
+[Info   : Unity Log] clip index: 0; current planet: 71 Gordion
+[Info   : Unity Log] Current outside ambience clips length: 5
+[Info   : Unity Log] clip index: 4; current planet: 71 Gordion
+[Info   : Unity Log] Current outside ambience clips length: 5
+[Info   : Unity Log] clip index: 2; current planet: 71 Gordion
+[Info   : Unity Log] Current outside ambience clips length: 5
+[Info   : Unity Log] clip index: 1; current planet: 71 Gordion
+[Info   : Unity Log] Current outside ambience clips length: 5
