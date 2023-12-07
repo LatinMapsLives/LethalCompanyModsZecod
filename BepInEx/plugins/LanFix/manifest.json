@@ -1,0 +1,10 @@
+{
+    "name": "LAN_Fix",
+    "author": "Vaugtro",
+    "website_url": "",
+    "version_number": "1.0.1",
+    "description": "A simple mod to fix the Lethal Company LANs connection.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}

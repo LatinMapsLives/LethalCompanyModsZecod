@@ -1,0 +1,60 @@
+[Message:   BepInEx] BepInEx 5.4.22.0 - Lethal Company (28.11.2023 15:11:43)
+[Info   :   BepInEx] Running under Unity v2022.3.9.15351836
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.22.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 20 plugins to load
+[Info   :   BepInEx] Loading [BetterTeleporter 1.0.0]
+[Info   :BetterTeleporter] Plugin BetterTeleporter is loaded!
+[Info   :   BepInEx] Loading [BiggerLobby 2.2.6]
+[Info   : Unity Log] Dress AI Fix Applied
+[Info   : Unity Log] Dress AI Fix Applied
+[Info   : Unity Log] ldfld
+[Info   : Unity Log] ldfld
+[Info   : Unity Log] ldarg.0
+[Info   : Unity Log] :YEAHEHAHEHA
+[Info   : Unity Log] Ran
+[Info   : Unity Log] Gen AI Fix Applied
+[Info   : Unity Log] Spring AI Fix 2 Applied
+[Info   : Unity Log] Spring AI Fix Applied
+[Info   : Unity Log] Kick Fix Applied
+[Info   : Unity Log] :YEAHEHAHEHA
+[Info   :BiggerLobby] BiggerLobby loaded
+[Info   :   BepInEx] Loading [ShipLoot 1.0]
+[Info   :   BepInEx] Loading [24HourClock 1.0.0]
+[Info   :   BepInEx] Loading [LbToKg 1.0.0]
+[Info   :   BepInEx] Loading [MoreScreams 1.0.0]
+[Info   :   BepInEx] Loading [BetterStamina 1.2.0]
+[Info   :BetterStamina] BindingConfigs
+[Info   :BetterStamina] BetterStamina loaded
+[Info   :   BepInEx] Loading [LetMeLookDown 1.0.1]
+[Info   :LetMeLookDown] LetMeLookDown mod loaded
+[Info   :   BepInEx] Loading [MoreBlood 1.0.2]
+[Info   : MoreBlood] BindingConfigs
+[Info   : MoreBlood] MoreBlood loaded
+[Info   :   BepInEx] Loading [ObjectVolumeController 1.0.3]
+[Info   :ObjectVolumeController] ObjectVolumeController loaded
+[Info   :   BepInEx] Loading [LC_API 1.0.0]
+[Warning:    LC_API] 
+.____    _________           _____  __________ .___  
+|    |   \_   ___ \         /  _  \ \______   \|   | 
+|    |   /    \  \/        /  /_\  \ |     ___/|   | 
+|    |___\     \____      /    |    \|    |    |   | 
+|_______ \\______  /______\____|__  /|____|    |___| 
+        \/       \//_____/        \/                 
+                                                     
+[Info   :    LC_API] LC_API Starting up..
+[Info   :   BepInEx] Loading [LethalCompanyDRP 1.2.0]
+[Info   :LethalCompanyDRP] Started LethalCompanyDRP
+[Info   :   BepInEx] Loading [Change Player Names 0.1.0]
+[Info   :Change Player Names] Loading...
+[Info   :Change Player Names] Loading Complete!
+[Info   :   BepInEx] Loading [MoreEmotes-Sligili 1.1.0]
+[Info   :MoreEmotes-Sligili] MoreEmotes loaded
